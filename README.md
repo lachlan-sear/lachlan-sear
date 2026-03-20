@@ -1,4 +1,4 @@
-# Hi, I'm Lachlan
+# Hi, I'm Lachlan (I go by Lockie!)
 
 I'm transitioning into European venture capital, focused on AI in regulated industries (healthcare, legal, dental, veterinary).
 
