@@ -1,12 +1,12 @@
 # Hi, I'm Lachlan (I go by Lockie!)
 
-I'm transitioning into European venture capital. Background in investment banking and private equity.
+I'm transitioning into venture capital. I spent a few years in investment banking and private equity; now, I'm transitioning to venture capital. I spend my free time eading, writing, and building.
 
 ## What I'm building
 
 **[Thesis Agent](https://github.com/lachlan-sear/thesis-agent)** — an autonomous deal intelligence system for venture capital. Three AI agents that source, evaluate, and maintain a deal pipeline against a configurable investment thesis. Built on Claude, runs daily via GitHub Actions.
 
-**[Observatory](https://github.com/lachlan-sear/Observatory)** — a deal pipeline tracker covering ~50 European AI companies across vertical AI, horizontal AI, infrastructure, and deep tech. Built to map the ecosystem I'm tracking across Europe and the US.
+**[Observatory](https://github.com/lachlan-sear/Observatory)** — a deal pipeline tracker covering my favourite AI companies: vertical, horizontal, infrastructure, and deep tech/defence players. Built to map the ecosystem I'm tracking across the globe.
 
 ## What I'm writing
 
