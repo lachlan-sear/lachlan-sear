@@ -1,6 +1,6 @@
 # Hi, I'm Lachlan (I go by Lockie!)
 
-I spent a few years in investment banking and private equity; now, I'm transitioning to venture capital. I spend my free time eading, writing, and building.
+I spent a few years in investment banking and private equity; but that wasn't my passion. I spend my free time reading, writing, and building.
 
 ## What I'm building
 
