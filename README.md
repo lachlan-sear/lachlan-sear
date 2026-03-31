@@ -4,7 +4,7 @@ I spent a few years in investment banking and private equity; but that wasn't my
 
 ## What I'm building
 
-**[Thesis Agent](https://github.com/lachlan-sear/thesis-agent)** — an autonomous deal intelligence system for venture capital. Three AI agents that source, evaluate, and maintain a deal pipeline against a configurable investment thesis. Built on Claude, runs daily via GitHub Actions.
+**[Thesis Agent](https://github.com/lachlan-sear/thesis-agent)** — an autonomous deal intelligence system for venture capital. Four AI agents that source, evaluate, monitor, and maintain a deal pipeline against a configurable investment thesis. Built on Claude, runs daily via GitHub Actions.
 
 **[Observatory](https://github.com/lachlan-sear/Observatory)** — a deal pipeline tracker covering my favourite AI companies: vertical, horizontal, infrastructure, and deep tech/defence players. Built to map the ecosystem I'm tracking across the globe.
 
