@@ -1,17 +1,11 @@
-# Hi, I'm Lachlan (I go by Lockie!)
+# Hi, I'm Lachlan (I go by Lockie)
 
-I spent a few years in investment banking and private equity; but that wasn't my passion. I spend my free time reading, writing, and building.
+Three years in Investment Banking and Private Equity Now I spend my days evaluating AI-written financial work — LBOs, valuations, IC memos — and my spare time building tools for it, mostly for fun.
 
 ## What I'm building
 
-**[Thesis Agent](https://github.com/lachlan-sear/thesis-agent)** — an autonomous deal intelligence system for venture capital. Four AI agents that source, evaluate, monitor, and maintain a deal pipeline against a configurable investment thesis. Built on Claude, runs daily via GitHub Actions.
-
-**[Observatory](https://github.com/lachlan-sear/Observatory)** — a deal pipeline tracker covering my favourite AI companies: vertical, horizontal, infrastructure, and deep tech/defence players. Built to map the ecosystem I'm tracking across the globe.
-
-## What I'm writing
-
-I write about early-stage investing at [lachlansear.com](https://lachlansear.com) — how digital-first companies win in regulation-heavy markets, what makes customer relationships endure, and frameworks for evaluating founders before the data catches up.
+**[lachlanbuilds.com](https://lachlanbuilds.com)** — working deal desks for buyouts, growth equity and venture. Each one runs a deal end to end, traces every figure the model writes back to its source page, and exports the model to Excel with live formulas. Message me for a password.
 
 ## Get in touch
 
-[lachlansear.com](https://lachlansear.com) · [LinkedIn](https://www.linkedin.com/in/lachlan-sear-41b84b131/)
+[LinkedIn](https://www.linkedin.com/in/lachlan-sear-41b84b131/)
