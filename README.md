@@ -1,6 +1,6 @@
-# Hi, I'm Lachlan (I go by Lockie)
+# Hi, I'm Lachlan (I go by Lockie!)
 
-Three years in Investment Banking and Private Equity Now I spend my days evaluating AI-written financial work — LBOs, valuations, IC memos — and my spare time building tools for it, mostly for fun.
+Three years in Investment Banking and Private Equity. Now I spend my days evaluating AI-written financial work – LBOs, valuations, IC memos – and my spare time building tools for it, mostly for fun.
 
 ## What I'm building
 
